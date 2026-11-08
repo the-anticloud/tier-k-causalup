@@ -1,0 +1,193 @@
+{
+  "bomFormat": "CycloneDX",
+  "specVersion": "1.5",
+  "serialNumber": "urn:uuid:428d6d7f-94fa-5056-b435-30e2d6ebd6be",
+  "version": 1,
+  "metadata": {
+    "timestamp": "2026-10-13T21:08:26Z",
+    "component": {
+      "type": "application",
+      "name": "K_CAUSALUP",
+      "version": "cc23521127ba",
+      "bom-ref": "pkg:generic/anticloud/K_CAUSALUP@cc23521127ba",
+      "purl": "pkg:generic/anticloud/K_CAUSALUP@cc23521127ba",
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    "properties": [
+      {
+        "name": "anticloud:source-commit",
+        "value": "cc23521127ba21ade40514539ae7b91db27ca54a"
+      },
+      {
+        "name": "anticloud:source-url",
+        "value": "https://github.com/py-why/dowhy.git"
+      },
+      {
+        "name": "anticloud:tier",
+        "value": "tier-agent"
+      }
+    ]
+  },
+  "components": [
+    {
+      "type": "library",
+      "name": "jsdom",
+      "version": "^29.0.0",
+      "purl": "pkg:npm/jsdom@^29.0.0",
+      "bom-ref": "npm/jsdom@^29.0.0"
+    },
+    {
+      "type": "library",
+      "name": "defaults",
+      "version": "unspecified",
+      "purl": "pkg:generic/defaults",
+      "bom-ref": "conda/defaults@unspecified"
+    },
+    {
+      "type": "library",
+      "name": "r",
+      "version": "unspecified",
+      "purl": "pkg:generic/r",
+      "bom-ref": "conda/r@unspecified"
+    },
+    {
+      "type": "library",
+      "name": "python",
+      "version": "3.9",
+      "purl": "pkg:generic/python@3.9",
+      "bom-ref": "conda/python@3.9"
+    },
+    {
+      "type": "library",
+      "name": "numpy",
+      "version": "unspecified",
+      "purl": "pkg:generic/numpy",
+      "bom-ref": "conda/numpy@unspecified"
+    },
+    {
+      "type": "library",
+      "name": "scipy",
+      "version": "unspecified",
+      "purl": "pkg:generic/scipy",
+      "bom-ref": "conda/scipy@unspecified"
+    },
+    {
+      "type": "library",
+      "name": "pandas",
+      "version": "unspecified",
+      "purl": "pkg:generic/pandas",
+      "bom-ref": "conda/pandas@unspecified"
+    },
+    {
+      "type": "library",
+      "name": "networkx",
+      "version": "unspecified",
+      "purl": "pkg:generic/networkx",
+      "bom-ref": "conda/networkx@unspecified"
+    },
+    {
+      "type": "library",
+      "name": "matplotlib",
+      "version": "unspecified",
+      "purl": "pkg:generic/matplotlib",
+      "bom-ref": "conda/matplotlib@unspecified"
+    },
+    {
+      "type": "library",
+      "name": "sympy",
+      "version": "unspecified",
+      "purl": "pkg:generic/sympy",
+      "bom-ref": "conda/sympy@unspecified"
+    },
+    {
+      "type": "library",
+      "name": "scikit-learn",
+      "version": "unspecified",
+      "purl": "pkg:generic/scikit-learn",
+      "bom-ref": "conda/scikit-learn@unspecified"
+    },
+    {
+      "type": "library",
+      "name": "statsmodels",
+      "version": "unspecified",
+      "purl": "pkg:generic/statsmodels",
+      "bom-ref": "conda/statsmodels@unspecified"
+    },
+    {
+      "type": "library",
+      "name": "pydot",
+      "version": "unspecified",
+      "purl": "pkg:generic/pydot",
+      "bom-ref": "conda/pydot@unspecified"
+    },
+    {
+      "type": "library",
+      "name": "seaborn",
+      "version": "unspecified",
+      "purl": "pkg:generic/seaborn",
+      "bom-ref": "conda/seaborn@unspecified"
+    },
+    {
+      "type": "library",
+      "name": "pygraphviz",
+      "version": "unspecified",
+      "purl": "pkg:generic/pygraphviz",
+      "bom-ref": "conda/pygraphviz@unspecified"
+    },
+    {
+      "type": "library",
+      "name": "ipython",
+      "version": "unspecified",
+      "purl": "pkg:generic/ipython",
+      "bom-ref": "conda/ipython@unspecified"
+    },
+    {
+      "type": "library",
+      "name": "jupyter",
+      "version": "unspecified",
+      "purl": "pkg:generic/jupyter",
+      "bom-ref": "conda/jupyter@unspecified"
+    },
+    {
+      "type": "library",
+      "name": "notebook",
+      "version": "unspecified",
+      "purl": "pkg:generic/notebook",
+      "bom-ref": "conda/notebook@unspecified"
+    },
+    {
+      "type": "library",
+      "name": "simplegeneric",
+      "version": "unspecified",
+      "purl": "pkg:generic/simplegeneric",
+      "bom-ref": "conda/simplegeneric@unspecified"
+    },
+    {
+      "type": "library",
+      "name": "pip",
+      "version": "unspecified",
+      "purl": "pkg:generic/pip",
+      "bom-ref": "conda/pip@unspecified"
+    },
+    {
+      "type": "library",
+      "name": "graphviz",
+      "version": "unspecified",
+      "purl": "pkg:generic/graphviz",
+      "bom-ref": "conda/graphviz@unspecified"
+    },
+    {
+      "type": "library",
+      "name": "econml",
+      "version": "unspecified",
+      "purl": "pkg:generic/econml",
+      "bom-ref": "conda/econml@unspecified"
+    }
+  ]
+}

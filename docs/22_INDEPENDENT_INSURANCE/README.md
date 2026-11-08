@@ -1,0 +1,6 @@
+# 22_INDEPENDENT_INSURANCE
+
+**Project:** K_CAUSALUP
+**Tier:** Tier 6
+
+Documentation for K_CAUSALUP.
